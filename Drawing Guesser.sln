@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Drawing Guesser", "Drawing Guesser.csproj", "{6712CB77-5280-4A5D-BAF1-2A7F6C255FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6712CB77-5280-4A5D-BAF1-2A7F6C255FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6712CB77-5280-4A5D-BAF1-2A7F6C255FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6712CB77-5280-4A5D-BAF1-2A7F6C255FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6712CB77-5280-4A5D-BAF1-2A7F6C255FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F2EAF15-557F-4E72-AE00-7F87DFA07650}
+	EndGlobalSection
+EndGlobal
